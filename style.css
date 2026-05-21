@@ -69,6 +69,21 @@ div.content {
     justify-content: space-around;
     align-items: center;
 
+}
+div.content p{
+font-style: normal;
+font-size: 24px;
+font-weight: 700;
+height: 133px;
+font-style: bold;
+margin-top: 13px;
+margin-left: 109px;
+margin-bottom: 50px;
+}
+div.covid-test-content img{
+    margin-left: 5%;
+    width: 90%;
+}
 
 div.covid-test-content p{
    margin-left: 5%;
